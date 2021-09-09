@@ -1,0 +1,47 @@
+body{
+    background: #f3d5d5;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-weight: 300;
+}
+
+.subjudul{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.kotak{
+    width: 350px;
+    background: white;
+    margin: 80px auto;
+    padding: 30px 20px;
+}
+
+label{
+    font-size: 11pt;
+}
+
+.form{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    font-size: 11pt;
+    margin-bottom: 20px;
+}
+
+.tombol{
+    background: #e04444;
+    color: white;
+    font-size: 11pt;
+    width: 100%;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+}
+
+p#gradeout{
+    font-style: bold;
+}
